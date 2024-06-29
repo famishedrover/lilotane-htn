@@ -5,8 +5,10 @@ Added fixes to work with C++17, bug fixes : Import errors for standard cpp libs.
 Install steps : 
 
 1. Ensure you have cpp 
-2. ```  sudo apt install bison    
-        sudo apt install flex```
+2. ```cmd
+    sudo apt install bison    
+    sudo apt install flex
+    ```
 
 Build Steps 
 
